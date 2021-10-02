@@ -1,4 +1,5 @@
-### Hi there 👋
+![this-is-fine](https://user-images.githubusercontent.com/20999846/135716092-444a8dce-2804-4fc2-99bf-1e1b02e5b883.gif)
+
 
 <!--
 **ashharrison90/ashharrison90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
